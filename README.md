@@ -23,7 +23,7 @@ This is a simple PyQt5 application for displaying weather information on a world
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/weather-app.git
+    git clone https://github.com/eduardosamman/weather-prediction.git
     ```
 
 2. Install the required dependencies:
