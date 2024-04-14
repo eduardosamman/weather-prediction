@@ -1,0 +1,4 @@
+pyqt5==5.15.4
+matplotlib==3.4.3
+cartopy==0.20.1
+geopy==2.2.0
